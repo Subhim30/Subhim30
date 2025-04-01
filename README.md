@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Subhim Khatri Chhetri]
+
+## 🚀 About Me  
+I'm a passionate rookie developer who loves coding, learning, and collaborating with like-minded people. I enjoy solving problems and building innovative projects.  
+
+## 🌟 My Interests & Hobbies  
+- 💻 Coding & Open-Source Development  
+- 🎮 Gaming & Game Development    
+- 🚀 Exploring New Technologies  
+
+## 🛠 Skills  
+- **Languages**: JavaScript, Python,   
+- **Web Development**: HTML, CSS 
+
+## 🎯 Why I Want to Join the Developers' Community  
+I am excited to be part of a vibrant community where I can learn from experienced developers, contribute to open-source projects, and grow my skills. I believe that collaboration and knowledge-sharing are key to innovation, and I am eager to connect with fellow developers.  
+  
+
 
 <!--
 **Subhim30/Subhim30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

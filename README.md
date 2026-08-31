@@ -10,7 +10,7 @@ I'm a passionate rookie developer who loves coding, learning, and collaborating 
 
 ## 🛠 Skills  
 - **Languages**: JavaScript, Python,   
-- **Web Development**: HTML, CSS 
+- **Web Development**: HTML, CSS , React
 
 ## 🎯 Why I Want to Join the Developers' Community  
 I am excited to be part of a vibrant community where I can learn from experienced developers, contribute to open-source projects, and grow my skills. I believe that collaboration and knowledge-sharing are key to innovation, and I am eager to connect with fellow developers.  

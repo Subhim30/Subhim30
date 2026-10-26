@@ -1,33 +1,23 @@
-# Hi there! 👋 I'm [Subhim Khatri Chhetri]
+<p align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=subhim30&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205715834%3Fu%3D93871d17baa8b76797c84642729b1dabfdefc6ca%26v%3D4&v=showcase-hero-1" alt="Subhim Chhetri hero visual" />
+</p>
 
-## 🚀 About Me  
-I'm a passionate rookie developer who loves coding, learning, and collaborating with like-minded people. I enjoy solving problems and building innovative projects.  
+<p align="center">
+<img src="https://www.gitskins.com/api/section/chess?username=subhim30&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205715834%3Fu%3D93871d17baa8b76797c84642729b1dabfdefc6ca%26v%3D4&v=showcase-chess-2" alt="Subhim Chhetri chess visual" />
+</p>
 
-## 🌟 My Interests & Hobbies  
-- 💻 Coding & Open-Source Development  
-- 🎮 Gaming & Game Development    
-- 🚀 Exploring New Technologies  
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=subhim30&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205715834%3Fu%3D93871d17baa8b76797c84642729b1dabfdefc6ca%26v%3D4&v=showcase-projects-3" alt="Subhim Chhetri projects visual" />
+</p>
 
-## 🛠 Skills  
-- **Languages**: JavaScript, Python,   
-- **Web Development**: HTML, CSS , React
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stats?username=subhim30&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205715834%3Fu%3D93871d17baa8b76797c84642729b1dabfdefc6ca%26v%3D4&v=showcase-stats-4" alt="Subhim Chhetri stats visual" />
+</p>
 
-## 🎯 Why I Want to Join the Developers' Community  
-I am excited to be part of a vibrant community where I can learn from experienced developers, contribute to open-source projects, and grow my skills. I believe that collaboration and knowledge-sharing are key to innovation, and I am eager to connect with fellow developers.  
-  
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=subhim30&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205715834%3Fu%3D93871d17baa8b76797c84642729b1dabfdefc6ca%26v%3D4&v=showcase-heatmap-5" alt="Subhim Chhetri heatmap visual" />
+</p>
 
-
-<!--
-**Subhim30/Subhim30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://www.gitskins.com/api/section/social?username=subhim30&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205715834%3Fu%3D93871d17baa8b76797c84642729b1dabfdefc6ca%26v%3D4&v=showcase-social-6" alt="Subhim Chhetri social visual" />
+</p>
